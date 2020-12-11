@@ -59,3 +59,12 @@ TagManager:
   - name: Draw
     uniqueID: 1560594663
     locked: 0
+  - name: Row4
+    uniqueID: 1224970583
+    locked: 0
+  - name: Row5
+    uniqueID: 3695193081
+    locked: 0
+  - name: Row6
+    uniqueID: 3385638101
+    locked: 0
